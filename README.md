@@ -11,7 +11,7 @@ Projeto Integrador 2 - 2026-2
 - [Time8] https://github.com/murilocunha3103/PI-II-Time-8
 - [Time9] https://github.com/jheny-ss/PI-II-Time-9
 - [Time10] https://github.com/yguioliveira/PI-II-Time-10
-- [Time11]
+- [Time11] https://github.com/gustavoosantana/PI-II-TIME-11
 - [Time16] https://github.com/RafssRv/PI-II-TIME-16
 - [Time17] https://github.com/lucaxaviers/PI-II-TIME17
 - [Time18] https://github.com/PedroSanchesAgatti/PI---II---TIME-18
