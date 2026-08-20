@@ -12,10 +12,12 @@ Projeto Integrador 2 - 2026-2
 - [Time9] https://github.com/jheny-ss/PI-II-Time-9
 - [Time10] https://github.com/yguioliveira/PI-II-Time-10
 - [Time11] https://github.com/gustavoosantana/PI-II-TIME-11
+- [Time12] https://github.com/letleme/PI_II_ES_TIME12
 - [Time16] https://github.com/RafssRv/PI-II-TIME-16
 - [Time17] https://github.com/lucaxaviers/PI-II-TIME17
 - [Time18] https://github.com/PedroSanchesAgatti/PI---II---TIME-18
 - [Time19] https://github.com/luizguv/PI-II-TIME19
+- [Time22] https://github.com/LuisTravaglini/PI_II_ES_TIME_22
 - [Time23] https://github.com/artlopess/PI-II-Time23
 - [Time24] https://github.com/Luskapaes3/PI-II-TIME-24
 - [Time25] https://github.com/sophiadesf/Projeto-Integrador-II---Grupo-25
@@ -23,5 +25,5 @@ Projeto Integrador 2 - 2026-2
 - [Time27]
 - [Time28]
 - [Time29]
-- [Time30]
+- [Time30] https://github.com/pedro-asher/PI---II---TIME-30
   
